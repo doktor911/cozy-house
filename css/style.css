@@ -168,6 +168,8 @@ button:focus {
 }
 .slider{
   position: relative;
+  width: 80%;
+  margin: auto!important;
 }
 .slick-prev, .slick-next {
     position: absolute;
